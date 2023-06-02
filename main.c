@@ -39,5 +39,6 @@ int main() {
     printf("Pi: 3.");
     spigot(n);
     printf("\n");
+    getch();
     return 0;
 }
